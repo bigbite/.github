@@ -20,13 +20,6 @@ Fixes [JIRA-0001](https://bigbite.atlassian.net/browse/JIRA-0001) and [JIRA-0011
 -
 -
 
-## Should be tested:
-
-<!--- Please check the appropriate place for QA to test any new features or relevant changes. It can be both. Put an `x` in all the boxes that apply: --->
-
-- [ ] Locally
-- [ ] On development server
-
 ## Steps to test
 
 <!--- Please describe how you tested your changes and how a reviewer can do the same. --->
