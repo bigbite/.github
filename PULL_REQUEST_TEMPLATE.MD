@@ -7,9 +7,9 @@ Example: [JIRA-0001] Outline additional requested information for Pull Requests.
 ## Description
 
 <!---
-Please ensure `{[JIRA-0000](jira-url)} - {Description}` is used and that descriptions are as thorough as they can be. If there are related Jira tickets, please ensure those are included as above.
+Please ensure `{[JIRA-0000](jira-url)} - {Description}` is used and that descriptions are as thorough as they can be. If there are related Jira tickets, please ensure those are included as above. GitHub issues can also be used in replacement and should use keyword links: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
 Example format:
-Fixes [JIRA-0001](https://bigbite.atlassian.net/browse/JIRA-0001) and [JIRA-0011](https://bigbite.atlassian.net/browse/JIRA-0011) - We've found that additional information is required to aid with understanding on what is required from a PR, and that further clarification is needed for other areas. This PR adds some additional information to the PR template to ensure engineers are providing the correct information on Pull Requests and that the QA is getting the information they need for testing.
+Fixes #123 and [JIRA-0011](https://bigbite.atlassian.net/browse/JIRA-0011) - We've found that additional information is required to aid with understanding on what is required from a PR, and that further clarification is needed for other areas. This PR adds some additional information to the PR template to ensure engineers are providing the correct information on Pull Requests and that the QA is getting the information they need for testing.
 --->
 
 ## Change Log
@@ -45,6 +45,8 @@ Fixes [JIRA-0001](https://bigbite.atlassian.net/browse/JIRA-0001) and [JIRA-0011
 - [ ] Refactor (refactor of existing code which should not change functionality)
 
 ## Checklist:
+
+<!--- Have you performed all the below tasks? Put an `x` in all the boxes that apply: -->
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
