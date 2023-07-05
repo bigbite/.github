@@ -28,15 +28,6 @@ Fixes [JIRA-0001](https://bigbite.atlassian.net/browse/JIRA-0001) and [JIRA-0011
 
 <!--- Please include a video demonstrating how to use new features. This may include setup. Nothing has to be perfect. --->
 
-## Types of changes:
-
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Refactor (refactor of existing code which should not change functionality)
-
 ## Checklist:
 
 - [ ] My code follows the style guidelines of this project
