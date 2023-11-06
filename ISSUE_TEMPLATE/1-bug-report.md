@@ -31,4 +31,4 @@ If possible, please upload a screenshot or screen recording which demonstrates t
 - Browser: <!-- e.g. Chrome 118 -->
 <!-- Or paste a link from https://www.whatsmybrowser.org -->
 - WordPress version: <!-- e.g. "5.8.0". Find this in Tools → Site Health → Info → WordPress -->
-- PHP version: <!-- e.g. "8.2". Find this in Tools → Site Health → Info → Server >
+- PHP version: <!-- e.g. "8.2". Find this in Tools → Site Health → Info → Server -->
