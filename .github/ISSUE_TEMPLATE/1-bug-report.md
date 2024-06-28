@@ -6,11 +6,11 @@ labels: "bug"
 assignees:
 ---
 
-## Expected Behavior
+## Expected Behaviour
 
 Describe what should happen.
 
-## Actual Behavior
+## Actual Behaviour
 
 Describe what actually happens.
 
