@@ -51,4 +51,4 @@ Example:
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] I have disclosed all areas where AI assistance was used when creating this pull request, if applicable
-- [ ] AI code suggestions were reviewed and modified to match our coding standards
+- [ ] AI code suggestions have been manually reviewed and I understand how they work
