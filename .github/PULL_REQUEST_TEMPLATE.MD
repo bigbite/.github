@@ -28,6 +28,18 @@ Fixes #123 and [JIRA-0011](https://bigbite.atlassian.net/browse/JIRA-0011) - We'
 
 <!--- Please include a video demonstrating how to use new features. This may include setup. Nothing has to be perfect. --->
 
+### AI Usage (if applicable)
+
+<!---
+If you used AI for any part of this pull request, please explain below.
+This is required as part of our company policy and will also help the code reviewer understand
+which areas may require more detailed review
+
+Example:
+- I have GitHub Copilot set up to auto-complete in my IDE.
+- I asked Copilot to help optimise WP Query when fetching posts
+--->
+
 ## Checklist:
 
 <!--- Have you performed all the below tasks? Put an `x` in all the boxes that apply: -->
@@ -38,3 +50,5 @@ Fixes #123 and [JIRA-0011](https://bigbite.atlassian.net/browse/JIRA-0011) - We'
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] I have disclosed all areas where AI assistance was used when creating this pull request, if applicable
+- [ ] AI code suggestions have been manually reviewed and I understand how they work
